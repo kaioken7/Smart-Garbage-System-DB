@@ -4,7 +4,6 @@
 #include<sstream>
 #include<string.h>
 #include<stdlib.h>
-#include<conio.h>
 using namespace std;
 //Class Administrator contains fine() totalpincode(int f) maxmin() add_New() add_Existing() total() search() del() functions
 class Administrator{
